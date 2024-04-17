@@ -16,6 +16,17 @@
 		D23215122BB8785600AF6A80 /* SproutTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D23215112BB8785600AF6A80 /* SproutTests.swift */; };
 		D232151C2BB8785600AF6A80 /* SproutUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D232151B2BB8785600AF6A80 /* SproutUITests.swift */; };
 		D232151E2BB8785600AF6A80 /* SproutUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D232151D2BB8785600AF6A80 /* SproutUITestsLaunchTests.swift */; };
+		D232152B2BB8786F00AF6A80 /* FirstView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D232152A2BB8786E00AF6A80 /* FirstView.swift */; };
+		D23215302BB8A49C00AF6A80 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D232152F2BB8A49C00AF6A80 /* SecondView.swift */; };
+		D23215322BB8AB6D00AF6A80 /* Inter-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D23215312BB8AB6D00AF6A80 /* Inter-Medium.ttf */; };
+		D23215352BB8B6B500AF6A80 /* ExtensionSproutColour.swift in Sources */ = {isa = PBXBuildFile; fileRef = D23215342BB8B6B500AF6A80 /* ExtensionSproutColour.swift */; };
+		D23215392BB8C9C100AF6A80 /* ThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D23215382BB8C9C100AF6A80 /* ThirdView.swift */; };
+		D232153B2BBA53F100AF6A80 /* GettingStartedView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D232153A2BBA53F100AF6A80 /* GettingStartedView1.swift */; };
+		D232153D2BBB903000AF6A80 /* SignInView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D232153C2BBB903000AF6A80 /* SignInView1.swift */; };
+		D232153F2BBCCB4400AF6A80 /* HomePageChild1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D232153E2BBCCB4400AF6A80 /* HomePageChild1.swift */; };
+		D23215412BBCDFD000AF6A80 /* HomePageChild2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D23215402BBCDFD000AF6A80 /* HomePageChild2.swift */; };
+		D23215432BBCE62F00AF6A80 /* Inter-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D23215422BBCE62F00AF6A80 /* Inter-Black.ttf */; };
+		D23215452BBD1EAF00AF6A80 /* HomePageChild3.swift in Sources */ = {isa = PBXBuildFile; fileRef = D23215442BBD1EAF00AF6A80 /* HomePageChild3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +59,18 @@
 		D23215172BB8785600AF6A80 /* SproutUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SproutUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D232151B2BB8785600AF6A80 /* SproutUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SproutUITests.swift; sourceTree = "<group>"; };
 		D232151D2BB8785600AF6A80 /* SproutUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SproutUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D232152A2BB8786E00AF6A80 /* FirstView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstView.swift; sourceTree = "<group>"; };
+		D232152F2BB8A49C00AF6A80 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
+		D23215312BB8AB6D00AF6A80 /* Inter-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Medium.ttf"; sourceTree = "<group>"; };
+		D23215332BB8AC8800AF6A80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		D23215342BB8B6B500AF6A80 /* ExtensionSproutColour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionSproutColour.swift; sourceTree = "<group>"; };
+		D23215382BB8C9C100AF6A80 /* ThirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdView.swift; sourceTree = "<group>"; };
+		D232153A2BBA53F100AF6A80 /* GettingStartedView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GettingStartedView1.swift; sourceTree = "<group>"; };
+		D232153C2BBB903000AF6A80 /* SignInView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInView1.swift; sourceTree = "<group>"; };
+		D232153E2BBCCB4400AF6A80 /* HomePageChild1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePageChild1.swift; sourceTree = "<group>"; };
+		D23215402BBCDFD000AF6A80 /* HomePageChild2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePageChild2.swift; sourceTree = "<group>"; };
+		D23215422BBCE62F00AF6A80 /* Inter-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Black.ttf"; sourceTree = "<group>"; };
+		D23215442BBD1EAF00AF6A80 /* HomePageChild3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePageChild3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +101,7 @@
 		D23214EF2BB8785300AF6A80 = {
 			isa = PBXGroup;
 			children = (
+				D232152C2BB8A39300AF6A80 /* New Group */,
 				D23214FA2BB8785300AF6A80 /* Sprout */,
 				D23215102BB8785600AF6A80 /* SproutTests */,
 				D232151A2BB8785600AF6A80 /* SproutUITests */,
@@ -98,12 +122,24 @@
 		D23214FA2BB8785300AF6A80 /* Sprout */ = {
 			isa = PBXGroup;
 			children = (
+				D23215422BBCE62F00AF6A80 /* Inter-Black.ttf */,
+				D23215332BB8AC8800AF6A80 /* Info.plist */,
 				D23214FB2BB8785300AF6A80 /* SproutApp.swift */,
 				D23214FD2BB8785300AF6A80 /* ContentView.swift */,
+				D23215312BB8AB6D00AF6A80 /* Inter-Medium.ttf */,
 				D23214FF2BB8785600AF6A80 /* Assets.xcassets */,
 				D23215042BB8785600AF6A80 /* Persistence.swift */,
 				D23215062BB8785600AF6A80 /* Sprout.xcdatamodeld */,
 				D23215012BB8785600AF6A80 /* Preview Content */,
+				D232152A2BB8786E00AF6A80 /* FirstView.swift */,
+				D232152F2BB8A49C00AF6A80 /* SecondView.swift */,
+				D23215342BB8B6B500AF6A80 /* ExtensionSproutColour.swift */,
+				D23215382BB8C9C100AF6A80 /* ThirdView.swift */,
+				D232153A2BBA53F100AF6A80 /* GettingStartedView1.swift */,
+				D232153C2BBB903000AF6A80 /* SignInView1.swift */,
+				D232153E2BBCCB4400AF6A80 /* HomePageChild1.swift */,
+				D23215402BBCDFD000AF6A80 /* HomePageChild2.swift */,
+				D23215442BBD1EAF00AF6A80 /* HomePageChild3.swift */,
 			);
 			path = Sprout;
 			sourceTree = "<group>";
@@ -131,6 +167,13 @@
 				D232151D2BB8785600AF6A80 /* SproutUITestsLaunchTests.swift */,
 			);
 			path = SproutUITests;
+			sourceTree = "<group>";
+		};
+		D232152C2BB8A39300AF6A80 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -239,6 +282,8 @@
 			files = (
 				D23215032BB8785600AF6A80 /* Preview Assets.xcassets in Resources */,
 				D23215002BB8785600AF6A80 /* Assets.xcassets in Resources */,
+				D23215322BB8AB6D00AF6A80 /* Inter-Medium.ttf in Resources */,
+				D23215432BBCE62F00AF6A80 /* Inter-Black.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,10 +308,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D23215392BB8C9C100AF6A80 /* ThirdView.swift in Sources */,
+				D23215302BB8A49C00AF6A80 /* SecondView.swift in Sources */,
+				D232153F2BBCCB4400AF6A80 /* HomePageChild1.swift in Sources */,
 				D23215082BB8785600AF6A80 /* Sprout.xcdatamodeld in Sources */,
 				D23215052BB8785600AF6A80 /* Persistence.swift in Sources */,
 				D23214FE2BB8785300AF6A80 /* ContentView.swift in Sources */,
 				D23214FC2BB8785300AF6A80 /* SproutApp.swift in Sources */,
+				D23215412BBCDFD000AF6A80 /* HomePageChild2.swift in Sources */,
+				D23215452BBD1EAF00AF6A80 /* HomePageChild3.swift in Sources */,
+				D232153D2BBB903000AF6A80 /* SignInView1.swift in Sources */,
+				D232152B2BB8786F00AF6A80 /* FirstView.swift in Sources */,
+				D23215352BB8B6B500AF6A80 /* ExtensionSproutColour.swift in Sources */,
+				D232153B2BBA53F100AF6A80 /* GettingStartedView1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -427,6 +481,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Sprout/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Sprout/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -455,6 +510,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Sprout/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Sprout/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
